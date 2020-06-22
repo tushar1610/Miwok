@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="title_activity_colors">Colors</string>
+    <string-array name="numbers_in_english">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+    </string-array>
+    <string-array name="numbers_in_miwok">
+        <item>lutti</item>
+        <item>otiiko</item>
+        <item>tolookosu</item>
+        <item>oyyisa</item>
+        <item>massokka</item>
+        <item>temmokka</item>
+        <item>kenekaku</item>
+        <item>kawinta</item>
+        <item>wo\'e</item>
+        <item>na\'aacha</item>
+    </string-array>
+
+
+    <string-array name="colors_in_miwok">
+        <item>wetetti</item>
+        <item>chiwiitə</item>
+        <item>topiisə</item>
+        <item>chokokki</item>
+        <item>takaakki</item>
+        <item>topoppi</item>
+        <item>kululli</item>
+        <item>kelelli</item>
+    </string-array>
+    <string-array name="colors_in_english">
+        <item>red</item>
+        <item>mustard yellow</item>
+        <item>dusty yellow</item>
+        <item>green</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>black</item>
+        <item>white</item>
+    </string-array>
+
+    <string-array name="family_in_miwok">
+        <item>əpə</item>
+        <item>əṭa</item>
+        <item>angsi</item>
+        <item>tune</item>
+        <item>taachi</item>
+        <item>chaliiti</item>
+        <item>teṭe</item>
+        <item>kolliti</item>
+        <item>paapa</item>
+        <item>ama</item>
+    </string-array>
+    <string-array name="family_in_english">
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Son</item>
+        <item>Daughter</item>
+        <item>Older Brother</item>
+        <item>Younger Brother</item>
+        <item>Older Sister</item>
+        <item>Younger Sister</item>
+        <item>GrandFather</item>
+        <item>GrandMother</item>
+    </string-array>
+
+
+    <string-array name="phrases_in_miwok">
+        <item>minto wuksus</item>
+        <item>tinnə oyaase\'nə</item>
+        <item>oyaaset...</item>
+        <item>michəksəs?</item>
+        <item>kuchi achit</item>
+        <item>əənəs\'aa?</item>
+        <item>həə\'əənəm</item>
+        <item>əənəm</item>
+        <item>yoowutis</item>
+        <item>ənni\'nem</item>
+    </string-array>
+    <string-array name="phrases_in_english">
+        <item>Where are you going?</item>
+        <item>What is your name?</item>
+        <item>My name is...</item>
+        <item>How are you feeling?</item>
+        <item>I\'m feeling good.</item>
+        <item>Are you coming?</item>
+        <item>Yes, I\'m coming.</item>
+        <item>I\'m coming.</item>
+        <item>Let\'s go.</item>
+        <item>Come here.</item>
+    </string-array>
+    <string name="number">Number</string>
+    <string name="family_members">Family Members</string>
+    <string name="colors">Colors</string>
+    <string name="phrases">Phrases</string>
+</resources>
